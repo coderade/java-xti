@@ -6,6 +6,8 @@ O curso de Java da Universidade XTI é um dos melhores cursos de Java já criado
 
 Porém, esse curso não está mais sendo distribuído oficialmente pela a empresa, mas é possível encontrá-lo no canal do Youtube [Java&Cia](https://www.youtube.com/playlist?list=PLxQNfKs8YwvGhXHbHtxtoB-tRRv6r3Rlr) e sites de downloads P2P.
 
+Os códigos encontrados na pasta `src` estão com uma boa parte das suas linhas comentadas, o que facilita o entendimento dos mesmos.
+
 ### Organização do repositório
 
 A organização deste repositório é bem simples, sendo composto pelos diretórios:
