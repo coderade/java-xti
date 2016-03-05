@@ -15,8 +15,8 @@ public class Serialization {
 		String[] names = {"Valdeci", "Joao", "Maria"};
 
 		Account account1 = new Account("Valdeci", 543000.32);
-		Account account2 = new Account("Renata", 200300.00);
-		Account account3 = new Account("Larissa", 120000);
+		Account account2 = new Account("Joao", 200300.00);
+		Account account3 = new Account("Maria", 120000);
 
 		//WRITING THE OBJECT
 		FileOutputStream fos = new FileOutputStream("C:/Java/Files/object.ser");
